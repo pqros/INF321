@@ -1,0 +1,8 @@
+int min(int a, int b) {
+  int temp = 1;
+  if (a < b) return (a+temp); else return (b+temp);
+}
+
+void main() {
+  print min(3, 5);
+}
