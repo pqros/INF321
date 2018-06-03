@@ -1,0 +1,9 @@
+int fact(int x) {
+  int s = 1;
+  while(x>1){s=s*x;--x;}
+  return s;
+}
+
+void main() {
+  print fact(3);
+}
