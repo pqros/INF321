@@ -1,7 +1,7 @@
-# INF321_EP
+# INF321 (2018-2019) Ecole polytechnique
 
-This folder contains all my TD codes of the course INF321 in Ecole Polytechnique
+This folder contains my TD codes of the course INF321 in Ecole Polytechnique
 
 Page : https://moodle.polytechnique.fr/course/view.php?id=4064
 
-Process : updated to TD5.
+Process : all but TD8.
